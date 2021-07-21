@@ -1,5 +1,15 @@
-body, h1, h2, h3, p, div, ul, li, button {
+body, h1, h2, h3, p, div, ul, li, button, main {
   padding: 0;
   margin: 0;
   font-family: sans-serif;
+}
+
+body {
+  display: flex;
+}
+
+main {
+  background-color: purple;
+  color: white;
+  border-radius: 1em;
 }
