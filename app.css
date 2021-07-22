@@ -12,4 +12,9 @@ main {
   background-color: purple;
   color: white;
   border-radius: 1em;
+  flex: 1;
+}
+
+section {
+  flex: 2;
 }
