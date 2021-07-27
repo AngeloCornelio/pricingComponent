@@ -6,7 +6,7 @@ body, #widget, h1, h2, h3, p, div, button, main {
 }
 
 body {
-  background-color: gray;
+  background-color: #e6ebed;
 }
 
 #widget {
@@ -22,7 +22,7 @@ img {
 }
 
 main {
-  background-color: purple;
+  background-color: #5046b7;
   color: white;
   border-radius: 1em;
   flex: 1;
@@ -56,12 +56,12 @@ section h2 {
 }
 
 #lite {
-  background-color: lightgray;
+  background-color: #f2f5fa;
   border-radius: 1em;
 }
 
 #pro {
-  background-color: navy;
+  background-color: #2f23ac;
   border-radius: 1em;
   color: white;
 }
