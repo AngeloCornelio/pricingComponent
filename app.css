@@ -59,3 +59,9 @@ section h2 {
   background-color: lightgray;
   border-radius: 1em;
 }
+
+#pro {
+  background-color: navy;
+  border-radius: 1em;
+  color: white;
+}
